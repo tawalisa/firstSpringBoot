@@ -21,6 +21,8 @@ public class MyRestController {
 		User u = new User();
 		u.setId(1L);
 		u.setName("number1");
+
+
 		return u;
 	}
 
